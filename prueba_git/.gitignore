@@ -3,8 +3,11 @@
 
 # Jupyter
 .ipynb_checkpoints/
-*_files/
+variables_operadores_files/
 
 # Python
 __pycache__/
 *.pyc
+
+# VS Code
+.vscode/

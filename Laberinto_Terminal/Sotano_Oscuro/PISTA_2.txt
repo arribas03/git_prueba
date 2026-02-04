@@ -1,0 +1,2 @@
+Parece que la puerta está cerrada. La llave está en lo más alto del castillo.
+(Ve a Torre_Alta/Biblioteca)

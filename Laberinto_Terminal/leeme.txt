@@ -1,0 +1,2 @@
+Tu misión: Encuentra el script 'tesoro.py' y ejecútalo.
+Para ello, busca las pistas en las carpetas.

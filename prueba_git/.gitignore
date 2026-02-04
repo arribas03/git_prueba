@@ -1,2 +1,10 @@
+# Entorno virtual
+.venv/
 
-*.txt
+# Jupyter
+.ipynb_checkpoints/
+*_files/
+
+# Python
+__pycache__/
+*.pyc
